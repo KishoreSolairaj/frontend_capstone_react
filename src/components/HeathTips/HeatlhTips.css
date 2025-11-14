@@ -1,0 +1,46 @@
+.health-tips-container {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 20px;
+  }
+  
+  .health-tips-title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .health-tips-list {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    /* grid-template-rows: 600px; */
+    gap: 20px;
+
+  }
+  
+  .health-tip {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+    width: 800px;
+    border: 1px solid #3685fb;
+    display: flex;
+    flex-direction: column;
+    /* flex-flow: column; */
+    overflow: hidden;
+    /* flex-wrap: wrap; */
+    /* background-color: red; */
+  }
+  
+  .health-tip-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .health-tip-content {
+    font-size: 14px;
+  }
+  

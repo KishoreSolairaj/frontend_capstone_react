@@ -1,0 +1,184 @@
+{
+  "doctors": [
+    {
+      "name": "Dr. Aditi Shukla",
+      "speciality": "Dentist",
+      "experience": 9,
+      "location": "Sunder Nagar, Raipur",
+      "clinic": "Aditi Dental Clinic",
+      "consultationFees": "⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/hand-drawn-iranian-women-illustration_23-2149855996.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    },
+    {
+      "name": "Dr. Vivek Agrawal",
+      "speciality": "Dentist",
+      "experience": 24,
+      "location": "Samta Colony, Raipur",
+      "clinic": "Radiant Dental Clinic Laser And Implant Centre",
+      "consultationFees": "⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/he-is-doctor_1020-679.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    },
+    {
+      "name": "Dr. Jitendra Saraf",
+      "speciality": "Dentist",
+      "experience": 11,
+      "location": "Samta Colony, Raipur",
+      "clinic": "Sita Memorial Multispeciality Dental Clinic",
+      "consultationFees": "⭐⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/flat-illustration-businessman-meditating_52683-59901.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    },
+    {
+      "name": "Dr. Yogesh Sahu",
+      "speciality": "Dentist",
+      "experience": 18,
+      "location": "Samta Colony, Raipur",
+      "clinic": "My smile Multi Speciality Dental Clinic",
+      "consultationFees": "⭐⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/female-doctor-empty-speech-bubble_74855-6458.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    },
+    {
+      "name": "Dr. Raghav Agrawal",
+      "speciality": "Bone",
+      "experience": 11,
+      "location": "Samta Colony, Raipur",
+      "clinic": "Shri Ram Dental Clinic",
+      "consultationFees": "⭐⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/hand-drawn-iranian-women-illustration_23-2149825684.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    },
+    {
+      "name": "Dr. Swati Mehrotra",
+      "speciality": "Gynecologist/Obstetrician",
+      "experience": 11,
+      "location": "Naraina Vihar, Delhi",
+      "clinic": "Gyn Clinic",
+      "consultationFees": "⭐⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/hand-drawn-iranian-women-illustration_23-2149855909.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    },
+    {
+      "name": "Dr. Yuvakshi Juneja",
+      "speciality": "Gynecologist/Obstetrician",
+      "experience": 40,
+      "location": "Safdarjung Enclave, Delhi",
+      "clinic": "Dr Yuvakshi Juneja Clinic",
+      "consultationFees": "⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/online-doctor-with-white-coat_23-2148519127.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    },
+    {
+      "name": "Dr. Sushmita Mukherjee",
+      "speciality": "Gynecologist/Obstetrician",
+      "experience": 33,
+      "location": "Old Palasia, Indore",
+      "clinic": "Dr Yuvakshi Mukherjee's Fertility & Laparoscopic Clinic",
+      "consultationFees": "⭐⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/female-scientist_52683-32410.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    },
+    {
+      "name": "Dr. Shishir Gupte",
+      "speciality": "General Physician",
+      "experience": 40,
+      "location": "Indore City-2, Indore",
+      "clinic": "Dr Shishir Gupte Clinic",
+      "consultationFees": "⭐⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/patient-taking-medical-examination_23-2148863810.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    },
+    {
+      "name": "Dr. Vimarsh Gupta",
+      "speciality": "General Physician",
+      "experience": 3,
+      "location": "Sukhliya, Indore",
+      "clinic": "Avsar Clinic And Research Centre",
+      "consultationFees": "⭐⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/man-doctor-woman-nurse-stand-with-patient-card-medical-staff-uniform-study-discuss-examination-result-make-note-therapist-giving-treatment-recommendation-prescription-putting-signature_575670-1316.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    },
+    {
+      "name": "Dr. Aditi Shukla",
+      "speciality": "Dentist",
+      "experience": 9,
+      "location": "Sunder Nagar, Raipur",
+      "clinic": "Aditi Dental Clinic",
+      "consultationFees": "⭐⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/hand-drawn-iranian-women-illustration_23-2149855996.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    },
+    {
+      "name": "Dr. Vivek Agrawal",
+      "speciality": "Dentist",
+      "experience": 24,
+      "location": "Samta Colony, Raipur",
+      "clinic": "Radiant Dental Clinic Laser And Implant Centre",
+      "consultationFees": "⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/he-is-doctor_1020-679.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    },
+    {
+      "name": "Dr. Jitendra Saraf",
+      "speciality": "Dentist",
+      "experience": 11,
+      "location": "Samta Colony, Raipur",
+      "clinic": "Sita Memorial Multispeciality Dental Clinic",
+      "consultationFees": "⭐⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/flat-illustration-businessman-meditating_52683-59901.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    },
+    {
+      "name": "Dr. Yogesh Sahu",
+      "speciality": "Dentist",
+      "experience": 18,
+      "location": "Samta Colony, Raipur",
+      "clinic": "My smile Multi Speciality Dental Clinic",
+      "consultationFees": "⭐⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/female-doctor-empty-speech-bubble_74855-6458.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    },
+    {
+      "name": "Dr. Raghav Agrawal",
+      "speciality": "Bone",
+      "experience": 11,
+      "location": "Samta Colony, Raipur",
+      "clinic": "Shri Ram Dental Clinic",
+      "consultationFees": "⭐⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/hand-drawn-iranian-women-illustration_23-2149825684.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    },
+    {
+      "name": "Dr. Swati Mehrotra",
+      "speciality": "Gynecologist/Obstetrician",
+      "experience": 11,
+      "location": "Naraina Vihar, Delhi",
+      "clinic": "Gyn Clinic",
+      "consultationFees": "⭐⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/hand-drawn-iranian-women-illustration_23-2149855909.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    },
+    {
+      "name": "Dr. Yuvakshi Juneja",
+      "speciality": "Gynecologist/Obstetrician",
+      "experience": 40,
+      "location": "Safdarjung Enclave, Delhi",
+      "clinic": "Dr Yuvakshi Juneja Clinic",
+      "consultationFees": "⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/online-doctor-with-white-coat_23-2148519127.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    },
+    {
+      "name": "Dr. Sushmita Mukherjee",
+      "speciality": "Gynecologist/Obstetrician",
+      "experience": 33,
+      "location": "Old Palasia, Indore",
+      "clinic": "Dr Yuvakshi Mukherjee's Fertility & Laparoscopic Clinic",
+      "consultationFees": "⭐⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/female-scientist_52683-32410.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    },
+    {
+      "name": "Dr. Shishir Gupte",
+      "speciality": "General Physician",
+      "experience": 40,
+      "location": "Indore City-2, Indore",
+      "clinic": "Dr Shishir Gupte Clinic",
+      "consultationFees": "⭐⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/patient-taking-medical-examination_23-2148863810.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    },
+    {
+      "name": "Dr. Vimarsh Gupta",
+      "speciality": "General Physician",
+      "experience": 3,
+      "location": "Sukhliya, Indore",
+      "clinic": "Avsar Clinic And Research Centre",
+      "consultationFees": "⭐⭐⭐⭐⭐",
+      "profilePic": "https://img.freepik.com/free-vector/man-doctor-woman-nurse-stand-with-patient-card-medical-staff-uniform-study-discuss-examination-result-make-note-therapist-giving-treatment-recommendation-prescription-putting-signature_575670-1316.jpg?size=626&ext=jpg&ga=GA1.1.666436873.1688629124&semt=ais"
+    }
+  ]
+}

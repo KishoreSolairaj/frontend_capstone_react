@@ -1,0 +1,31 @@
+/* .footer{
+    bottom: 0;
+    overflow-x: hidden;
+    position: relative;
+} */.appointment-card {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 300px;
+    background-color: #2190FF;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 999;
+    color: #fff;
+}
+
+.appointment-card__content {
+padding: 20px;
+}
+
+.appointment-card__title {
+font-size: 18px;
+font-weight: bold;
+margin-bottom: 10px;
+}
+
+.appointment-card__message {
+font-size: 14px;
+color: aliceblue;
+}
+  
