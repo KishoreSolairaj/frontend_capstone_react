@@ -11,9 +11,9 @@ const Profile = () => {
   useEffect(() => {
     fetchUserProfile();
     const authtoken = sessionStorage.getItem("auth-token");
-        if (!authtoken) {
-            navigate("/login");
-        }
+    if (!authtoken) {
+      navigate("/login");
+    }
   }, []);
 
   const fetchUserProfile = () => {
@@ -53,40 +53,40 @@ const Profile = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-  
+
     try {
-        const userEmail = sessionStorage.getItem("email"); // Retrieve the user email from session storage
-        const payload = { ...updatedDetails, email: userEmail }; // Include the user email in the request payload
-        const response = await fetch(`${API_URL}/api/auth/update`, {
-            method: "PUT",
-            headers: {
-            "Content-Type": "application/json",
-            },
-            body: JSON.stringify(payload),
-        });
-    
-        if (response.ok) {
-            // Update the user details in session storage
-            sessionStorage.setItem("name", updatedDetails.name);
-            sessionStorage.setItem("phone", updatedDetails.phone);
-            sessionStorage.setItem("email", updatedDetails.email);
-    
-            setUserDetails(updatedDetails);
-            setEditMode(false);
-            // Display success message to the user
-            alert(`Profile Updated Successfully!`);
-            navigate("/");
-            window.location.reload();
-        } else {
-            // Handle error case
-            throw new Error('Failed to update profile');
-        }
-        } catch (error) {
-        console.error(error);
+      const userEmail = sessionStorage.getItem("email"); // Retrieve the user email from session storage
+      const payload = { ...updatedDetails, email: userEmail }; // Include the user email in the request payload
+      const response = await fetch(`${API_URL}/api/auth/update`, {
+        method: "PUT",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(payload),
+      });
+
+      if (response.ok) {
+        // Update the user details in session storage
+        sessionStorage.setItem("name", updatedDetails.name);
+        sessionStorage.setItem("phone", updatedDetails.phone);
+        sessionStorage.setItem("email", updatedDetails.email);
+
+        setUserDetails(updatedDetails);
+        setEditMode(false);
+        // Display success message to the user
+        alert(`Profile Updated Successfully!`);
+        navigate("/");
+        window.location.reload();
+      } else {
         // Handle error case
-        }
-    };
-    
+        throw new Error('Failed to update profile');
+      }
+    } catch (error) {
+      console.error(error);
+      // Handle error case
+    }
+  };
+
 
   return (
     <div className="profile-container">
